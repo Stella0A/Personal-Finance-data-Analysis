@@ -1,3 +1,3 @@
 # Personal-Finance-data-Analysis
 
-An analysis of a personal finance dataset.
+An analysis of a personal monthly finance dataset.
